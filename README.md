@@ -16,6 +16,8 @@ EquiTrader is a robust tool and platform for traders and investors to discuss th
 <br>
 <br>
 The EquiTrader platform provides traders with:<br>
+<br>
+<br>
 ·       Trading charts<br>
 ·       Trade alerts<br>
 ·       Trading indicators <br>
