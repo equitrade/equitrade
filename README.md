@@ -1,82 +1,18 @@
-EquiTrader integration/staging tree
-================================
+EquiTrader :-
+Algorithm   SHA256
+Total coin supply   72000000
+Block reward   40 coins
+Block Time 5 mins
+EquiTrader rewards traders for sharing their insight on successful altcoin, bitcoin, and financial market analysis and trades, and provides a social community for traders and investors of cryptocurrency, stock, futures, and forex markets.
 
-http://www.equitrader.org
+EquiTrader is a robust tool and platform for traders and investors to discuss their ideas, where traders get rewarded for their forecasts. With interactive financial and cryptocurrency charts for analysis, EquiTrader provides a complete suite of advanced tools and technical indicators suitable for both beginners and advanced traders.
 
-Copyright (c) 2009-2013 EquiTrader Developers
+The EquiTrader platform provides traders with:
+·       Trading charts
+·       Trade alerts
+·       Trading indicators 
+·       Technical analysis tools
+·       Social features
+·       24/Hr Support
 
-What is EquiTrader?
-----------------
-
-EquiTrader is an experimental new digital currency that enables instant payments to
-anyone, anywhere in the world. EquiTrader uses peer-to-peer technology to operate
-with no central authority: managing transactions and issuing money are carried
-out collectively by the network. EquiTrader is also the name of the open source
-software which enables the use of this currency.
-
-For more information, as well as an immediately useable, binary version of
-the EquiTrader client software, see http://www.equitrader.org.
-
-License
--------
-
-EquiTrader is released under the terms of the MIT license. See `COPYING` for more
-information or see http://opensource.org/licenses/MIT.
-
-Development process
--------------------
-
-Developers work in their own trees, then submit pull requests when they think
-their feature or bug fix is ready.
-
-If it is a simple/trivial/non-controversial change, then one of the EquiTrader
-development team members simply pulls it.
-
-If it is a *more complicated or potentially controversial* change, then the patch
-submitter will be asked to start a discussion (if they haven't already) on the
-[mailing list](http://sourceforge.net/mailarchive/forum.php?forum_name=equitrader-development).
-
-The patch will be accepted if there is broad consensus that it is a good thing.
-Developers should expect to rework and resubmit patches if the code doesn't
-match the project's coding conventions (see `doc/coding.md`) or are
-controversial.
-
-The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/equitrader/equitrader/tags) are created
-regularly to indicate new official, stable release versions of EquiTrader.
-
-Testing
--------
-
-Testing and code review is the bottleneck for development; we get more pull
-requests than we can review and test. Please be patient and help out, and
-remember this is a security-critical project where any mistake might cost people
-lots of money.
-
-### Automated Testing
-
-Developers are strongly encouraged to write unit tests for new code, and to
-submit new unit tests for old code.
-
-Unit tests for the core code are in `src/test/`. To compile and run them:
-
-    cd src; make -f makefile.unix test
-
-Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
-
-    qmake BITCOIN_QT_TEST=1 -o Makefile.test equitrader-qt.pro
-    make -f Makefile.test
-    ./equitrader-qt_test
-
-Every pull request is built for both Windows and Linux on a dedicated server,
-and unit and sanity tests are automatically run. The binaries produced may be
-used for manual QA testing — a link to them will appear in a comment on the
-pull request posted by [EquiTraderPullTester](https://github.com/EquiTraderPullTester). See https://github.com/TheBlueMatt/test-scripts
-for the build/test scripts.
-
-### Manual Quality Assurance (QA) Testing
-
-Large changes should have a test plan, and should be tested by somebody other
-than the developer who wrote the code.
-
-See https://github.com/equitrader/QA/ for how to create a test plan.
+Harnessing the power of swarm intelligence and the wisdom of crowds, EquiTrader enables traders to sieve through the crowd to pick quality analyses, therefore accurately forecasting the most profitable trade and maximise profits.
